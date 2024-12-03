@@ -21,7 +21,6 @@ Fungsi utama:
 - **SimulateReadWriteOperation()**: Mensimulasikan akses resource bersama dengan delay berbasis loop untuk menghindari masalah pada fungsi delay berbasis interrupt.
   - Fungsi ini menggunakan loop sederhana dengan instruksi no-operation (`__asm("nop")`) untuk membuat jeda waktu yang aman di dalam critical section tanpa bergantung pada interrupt atau timer.
 
-![rtos_task diagram](https://github.com/user-attachments/assets/33d9a5e2-b3fc-4c24-8a00-f5e6ab444e35)
 
 1. **FlashGreenLedTask (Prioritas: Normal)**
    - Task ini menyalakan LED Hijau selama 0.5 detik setiap periodik waktu yang ditentukan.
@@ -47,8 +46,8 @@ Fungsi utama:
   - Penggunaan critical section memastikan bahwa resource bersama tidak diakses secara bersamaan, menghindari kesalahan seperti kondisi balapan (*race condition*).
 
 ## Foto Hardware
-![foto hardware task 6](https://github.com/user-attachments/assets/9c4259d6-ec8d-46e1-8ea5-fbfb56483c3b)
+![foto hardware exercise 6]()
 
 ## Short Video Hardware
 
-https://github.com/user-attachments/assets/44bb5adc-e802-4848-826e-1fee36dd8c6a
+
