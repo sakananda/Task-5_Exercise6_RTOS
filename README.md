@@ -46,8 +46,11 @@ Fungsi utama:
   - Penggunaan critical section memastikan bahwa resource bersama tidak diakses secara bersamaan, menghindari kesalahan seperti kondisi balapan (*race condition*).
 
 ## Foto Hardware
-![foto hardware exercise 6]()
+![foto hardware exercise 6](https://github.com/user-attachments/assets/0f3f461e-80f2-455d-bc05-d8ad68fc95de)
+
 
 ## Short Video Hardware
+https://github.com/user-attachments/assets/6042b776-4f29-4994-93fb-6dab5e20d747
+
 
 
