@@ -3,6 +3,7 @@
 - **Diva Sakananda (3222600013)**
 - **Billy Lukito Danuharja (3222600027)**
 
+
 # Task 5 Exercise 6 - Demonstrate a simple way to eliminate resource contention - suspending the scheduler.
 
 ## Deskripsi Projek
